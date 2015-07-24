@@ -1,0 +1,585 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"postService"
+			],
+			[
+				"tr",
+				"transaction"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"requ",
+				"requestUpdate"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"erro",
+				"errorCallback"
+			],
+			[
+				"error",
+				"errorCode"
+			],
+			[
+				"a",
+				"aTasks"
+			],
+			[
+				"object",
+				"objectStore"
+			],
+			[
+				"db",
+				"db_store_name"
+			],
+			[
+				"DB",
+				"DB_STORE_NAME"
+			],
+			[
+				"su",
+				"successCallback"
+			],
+			[
+				"parse",
+				"parsedItem"
+			],
+			[
+				"sto",
+				"storageEngine"
+			],
+			[
+				"new",
+				"newStorageItem"
+			],
+			[
+				"sot",
+				"storageItem"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"fi",
+				"find"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"compar",
+				"compareTo"
+			],
+			[
+				"fin",
+				"findAll"
+			],
+			[
+				"cont",
+				"cont_geo"
+			],
+			[
+				"cur",
+				"curso"
+			],
+			[
+				"vagas",
+				"vagas_remanescentes"
+			],
+			[
+				"mysqlfe",
+				"mysql_fetch_assoc"
+			],
+			[
+				"cod_",
+				"cod_cota"
+			],
+			[
+				"cotas",
+				"cotas_vagas"
+			],
+			[
+				"consu",
+				"consulta"
+			],
+			[
+				"consulta",
+				"consulta_quantidade_vagas"
+			],
+			[
+				"cod",
+				"cod_cota"
+			],
+			[
+				"cota",
+				"cotas_vagas"
+			],
+			[
+				"sql",
+				"sql_alunos"
+			],
+			[
+				"consult",
+				"consulta_cod_cota"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"MYSQL",
+				"mysql_query"
+			],
+			[
+				"vir",
+				"virg"
+			],
+			[
+				"virg",
+				"virg2"
+			],
+			[
+				"valu",
+				"values"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"trata",
+				"trata_cpf"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_assoc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: inst",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"File: Copy Path From Project Encoded"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php … ?>"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 560.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/gti/Desenvolvimento/GRails/quero10"
+	],
+	"file_history":
+	[
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/views/profile/show.gsp",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/conf/DataSource.groovy",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/src/templates/scaffolding/index.gsp",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/views/layouts/main.gsp",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/views/user/search.gsp",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/test/integration/hubbub/QueryIntegrationSpec.groovy",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/controllers/com/grailsinaction/PostController.groovy",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/services/com/grailsinaction/PostService.groovy",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/views/post/timeline.gsp",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/views/post/user_timeline.gsp",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/controllers/com/grailsinaction/UserController.groovy",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/controllers/com/grailsinaction/ImageController.groovy",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/views/user/register.gsp",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/views/user/results.gsp",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/conf/UrlMappings.groovy",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/views/image/form.gsp",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/web-app/images/users/photo-33",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/views/user/show.gsp",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/domain/com/grailsinaction/User.groovy",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/domain/com/grailsinaction/Post.groovy",
+		"/C/Users/gti/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/test/integration/com/grailsinaction/PostIntegrationSpec.groovy",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/test/unit/com/grailsinaction/ProfileSpec.groovy",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/test/unit/com/grailsinaction/UserSpec.groovy",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/domain/com/grailsinaction/Tag.groovy",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/domain/com/grailsinaction/Profile.groovy",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/test/integration/com/grailsinaction/UserIntegrationSpec.groovy",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/test/unit/com/grailsinaction/PostSpec.groovy",
+		"/C/Users/gti/Desenvolvimento/GRails/hubbub/grails-app/controllers/hubbub/HelloController.groovy",
+		"/C/xampp/htdocs/tpi/styles/02-tasks.css",
+		"/C/xampp/htdocs/tpi/index.html",
+		"/C/xampp/htdocs/tpi/tasks-indexedDB.html",
+		"/C/xampp/htdocs/tpi/tasks-webStorage.html",
+		"/C/xampp/htdocs/tpi/index.php",
+		"/C/xampp/htdocs/tpi/tarefa-02.txt",
+		"/C/xampp/htdocs/tpi/02-tasks.html",
+		"/C/xampp/htdocs/tasks-final/02-tasks.html",
+		"/C/xampp/htdocs/tpi/scripts/tasks-controller.js",
+		"/C/xampp/htdocs/tpi/exemploIndexedDB.js",
+		"/C/xampp/htdocs/tpi/exemploIndexedDB.html",
+		"/C/xampp/htdocs/tpi/scripts/tasks-IndexedDB.js",
+		"/C/xampp/htdocs/tpi/scripts/tasks-webstorage.js",
+		"/C/xampp/htdocs/tpi/01-tasks.html",
+		"/C/xampp/htdocs/tpi/exemploIndexedDB.css",
+		"/C/Users/gti/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/tpi/scripts/date-pt-BR.js",
+		"/C/xampp/htdocs/tpi/scrips/tasks-controller.js",
+		"/C/xampp/htdocs/tpi/tasks-controller.js",
+		"/C/xampp/htdocs/vestibular/config/conexao.php",
+		"/C/xampp/htdocs/vestibular/sistema/importar_qselecao_20152.php",
+		"/C/xampp/htdocs/vestibular/sistema/tratar_cotas_qselecao_20152.php",
+		"/C/xampp/htdocs/vestibular/sistema/classificacao.php",
+		"/C/xampp/htdocs/teste-for.php",
+		"/C/xampp/htdocs/vestibular/info.php",
+		"/C/xampp/htdocs/vestibular/sistema/classificacao_20152.php",
+		"/C/Users/gti/Dropbox/Mestrado UFPE/Disciplinas/Engenharia de Software - Vinicius/Ruby/Trilha1-2.rb",
+		"/C/Users/gti/Dropbox/Mestrado UFPE/Disciplinas/Engenharia de Software - Vinicius/Ruby/Trilha1.rb",
+		"/C/Users/gti/Desktop/teste.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"photo",
+			"foto",
+			"bottom",
+			"type",
+			"toObject",
+			"save :",
+			"save",
+			"console.log",
+			".onerror",
+			"getObjectStore",
+			"cursor",
+			".cursor",
+			"loadTasks",
+			"db ",
+			"getObjectStore",
+			"getObjectStorage",
+			"getObjectStore",
+			"getStorageObject",
+			"db",
+			"form",
+			"<script",
+			"blob",
+			"dbName",
+			"'task'",
+			"\"task\"",
+			".log",
+			"comment",
+			"initObjectStore",
+			"getStorageObject",
+			"\"task\"",
+			"transaction",
+			"btnPrint",
+			"database",
+			"localsto",
+			"console.log",
+			"console.lo",
+			"sort",
+			"complete",
+			"complet",
+			"completed",
+			"edit",
+			"rappor",
+			"rapport",
+			"javascript",
+			"script",
+			"data-task-id",
+			"TMPL",
+			"reset",
+			"console.",
+			"errorlog",
+			"delete",
+			"loadTasks",
+			"tasks",
+			"bindin",
+			"edit",
+			"complete",
+			"completerow",
+			"deleteRow",
+			"completerow",
+			"completeRow",
+			"completar",
+			"marcar ",
+			"tasksController",
+			"savetask",
+			"[required=\"required\"]",
+			"#btnAddTask",
+			"tbody tr",
+			"#tblTasks tbody",
+			"saveTask",
+			"append",
+			"fromObject",
+			"SELECT COUNT(numinscricao) as Total FROM notas ",
+			"SELECT COUNT(numinscricao) as Total FROM not",
+			"SELECT COUNT(numinscricao) as Total FROM notas n",
+			"SELECT COUNT(numinscricao) as Total FROM notas n INNER JOIN in",
+			"SELECT COUNT(numinscricao) as Total FROM notas n INNER JOIN inscricoes ",
+			"SELECT COUNT(numinscricao) as Total FROM notas n INNER JOIN inscricoes i ON",
+			"SELECT COUNT(numinscricao) as Total FROM notas n INNER JOIN inscricoes i ON n.numinscrica",
+			"SELECT COUNT(numinscricao) as Total FROM notas n INNER JOIN inscricoes i ON n.numinscricao = i.cod_inscricao WHERE ",
+			"SELECT COUNT(numinscricao) AS total FROM notas",
+			"SELECT COUNT(numinscricao) as Total FROM notas",
+			"[0]",
+			"GRAVA_NOTAS_AUSE",
+			"grava_notas_ausente",
+			"exceden",
+			"from cotas_vag",
+			"	\n",
+			"mysql",
+			"access",
+			"is_prime",
+			")",
+			"foto",
+			"blob"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"type"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "quero10.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ur",
+				"grails-app\\conf\\UrlMappings.groovy"
+			],
+			[
+				"urlma",
+				"grails-app\\conf\\UrlMappings.groovy"
+			],
+			[
+				"usershow",
+				"grails-app\\views\\user\\show.gsp"
+			],
+			[
+				"image",
+				"grails-app\\controllers\\com\\grailsinaction\\ImageController.groovy"
+			],
+			[
+				"usercontro",
+				"grails-app\\controllers\\com\\grailsinaction\\UserController.groovy"
+			],
+			[
+				"postser",
+				"grails-app\\services\\com\\grailsinaction\\PostService.groovy"
+			],
+			[
+				"post",
+				"grails-app\\domain\\com\\grailsinaction\\Post.groovy"
+			],
+			[
+				"user",
+				"grails-app\\domain\\com\\grailsinaction\\User.groovy"
+			],
+			[
+				"postcon",
+				"grails-app\\controllers\\com\\grailsinaction\\PostController.groovy"
+			],
+			[
+				"scripts/",
+				"scripts\\tasks-controller.js"
+			],
+			[
+				"",
+				"02-tasks.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
